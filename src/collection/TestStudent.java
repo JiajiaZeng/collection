@@ -49,7 +49,7 @@ public class TestStudent {
 	    return stuSet;
 	  }
 	  private static void outputInfo(Set<Student> stuSet){
-	    File file = new File("e:/student.txt");
+	    File file = new File("src\\collection\\student.txt");
 	    /**
 	     * 创建文件输出流对象
 	     */
